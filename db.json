@@ -1,0 +1,15 @@
+{
+    "house":[
+        {
+          "id": "1",
+          "data":[{
+            "id":"jaiehrieonfv",
+            "location": "府緯街50號",
+            "date": "2022-03-25",
+            "time": "09:50AM",
+            "price": 530,
+            "achieved": true
+            }]
+        }
+      ]
+}
